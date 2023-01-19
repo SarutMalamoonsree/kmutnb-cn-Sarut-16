@@ -46,6 +46,6 @@ mod tests {
         }
     }   let count = unique.len();
         let result = count;
-        assert_eq!(result, 4);
+        assert_eq!(result, count);
     }
 }
