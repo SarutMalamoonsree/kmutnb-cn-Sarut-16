@@ -1,0 +1,13 @@
+c:\Users\HP\OneDrive - kmutnb.ac.th\Desktop\New folder\book-sells\target\debug\deps\cc-7b1a1d9c64a08f47.rmeta: C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs
+
+c:\Users\HP\OneDrive - kmutnb.ac.th\Desktop\New folder\book-sells\target\debug\deps\libcc-7b1a1d9c64a08f47.rlib: C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs
+
+c:\Users\HP\OneDrive - kmutnb.ac.th\Desktop\New folder\book-sells\target\debug\deps\cc-7b1a1d9c64a08f47.d: C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs
+
+C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\registry.rs:
+C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\winapi.rs:
+C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\com.rs:
+C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\setup_config.rs:
+C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\vs_instances.rs:
+C:\Users\HP\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.79\src\windows_registry.rs:
